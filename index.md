@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: hello, it is I
 ---
 
-I'm glad you are here. I plan to talk about ...
+I do things, have many things. Maan things.
